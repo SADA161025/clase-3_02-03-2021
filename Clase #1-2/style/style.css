@@ -1,0 +1,13 @@
+body{
+background-color: white;
+text-align: center;
+font-size: 32px;
+margin-top: 5%;
+}
+
+button{
+    padding: 10px;
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+}
